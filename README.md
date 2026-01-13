@@ -1,2 +1,2 @@
-# Frauenzeitschriften-im-19.-Jahrhundert
-data
+Frauenzeitschriften und -literatur im 19.Jahrhundert
+
